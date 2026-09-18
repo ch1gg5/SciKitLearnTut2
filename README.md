@@ -2,6 +2,14 @@
 
 This repository contains notebooks demonstrating various preprocessing techniques and machine learning algorithms using scikit-learn.
 
+## Requirements & Installation
+
+To run these notebooks, clone the repository and install the dependencies listed in `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Notebooks
 
 - `001_Test_Train_Split.ipynb`: Demonstrates how to split a dataset into training and testing sets to evaluate model performance on unseen data.
